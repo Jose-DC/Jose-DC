@@ -6,17 +6,16 @@ Mi experiencia viene desde la operación, el soporte, la resolución de incident
 
 Este perfil documenta mi camino de aprendizaje y proyectos prácticos mientras construyo experiencia demostrable en Cloud, DevOps e infraestructura moderna.
 
-## En qué me estoy enfocando
+## Foco actual
 
-- Azure y servicios cloud
-- AKS y Kubernetes
-- Docker y contenedores
-- Linux para administración de sistemas
-- Automatización con PowerShell y Bash
-- Git, GitHub y control de versiones
-- CI/CD con GitHub Actions
-- Monitoreo, troubleshooting e infraestructura
-
+- Soporte Cloud e Infraestructura TI.
+- Microsoft Azure y AKS/Kubernetes.
+- Docker, Helm y Linux.
+- Revisión de logs, monitoreo y continuidad operativa.
+- Automatización con Python, Bash y PowerShell.
+- Git, GitHub y documentación técnica.
+- CI/CD, Terraform y observabilidad como aprendizaje aplicado.
+  
 ## Mi objetivo profesional
 
 Desarrollarme en roles relacionados con Cloud, DevOps, Platform Engineering, Infraestructura o SRE Junior, combinando mi experiencia en soporte con habilidades prácticas en automatización, operación cloud y despliegue de servicios.
