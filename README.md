@@ -1,24 +1,30 @@
 # Hola, soy José Díaz
 
-Soy profesional de Soporte TI en Chile, actualmente orientando mi carrera hacia el mundo Cloud & DevOps.
+Soy Ingeniero Civil Telemático y actualmente trabajo como Ingeniero de Soporte, combinando soporte funcional y técnico con infraestructura TI y operación cloud.
 
-Mi experiencia viene desde la operación, el soporte, la resolución de incidentes y el trabajo con entornos reales de infraestructura. Actualmente estoy profundizando en Azure, AKS, Kubernetes, Docker, Linux, automatización y buenas prácticas para administración de sistemas cloud.
+Participo en atención de primer y segundo nivel, diagnóstico mediante logs y métricas, monitoreo, documentación técnica y apoyo a la operación de entornos en Microsoft Azure y AKS/Kubernetes. También apoyo implementaciones de soluciones para puntos de venta, validaciones funcionales, integraciones y coordinación con equipos técnicos.
 
-Este perfil documenta mi camino de aprendizaje y proyectos prácticos mientras construyo experiencia demostrable en Cloud, DevOps e infraestructura moderna.
+Este perfil reúne proyectos y laboratorios con evidencia reproducible sobre infraestructura, automatización y operación. Mi experiencia laboral y mis proyectos personales se presentan por separado para no convertir aprendizaje o responsabilidades asignadas en dominio avanzado.
 
 ## Foco actual
 
+- Soporte funcional y técnico de primer y segundo nivel.
 - Soporte Cloud e Infraestructura TI.
 - Microsoft Azure y AKS/Kubernetes.
-- Docker, Helm y Linux.
-- Revisión de logs, monitoreo y continuidad operativa.
+- Diagnóstico mediante logs, métricas y monitoreo.
+- Implementaciones, integraciones y documentación técnica.
+- Docker, Helm y Linux como experiencia y aprendizaje aplicado según el contexto.
 - Automatización con Python, Bash y PowerShell.
-- Git, GitHub y documentación técnica.
 - CI/CD, Terraform y observabilidad como aprendizaje aplicado.
   
 ## Mi objetivo profesional
 
-Desarrollarme en roles relacionados con Cloud, DevOps, Platform Engineering, Infraestructura o SRE Junior, combinando mi experiencia en soporte con habilidades prácticas en automatización, operación cloud y despliegue de servicios.
+Seguir creciendo desde soporte avanzado e infraestructura hacia Soporte Cloud, Cloud Operations Junior y DevOps Junior, fortaleciendo automatización, observabilidad y operación de plataformas de forma gradual.
+
+## Portafolio
+
+- Sitio: https://jose-dc.github.io/
+- Proyecto documentado: [Plataforma Docker Lab](https://github.com/Jose-DC/plataforma-docker-lab)
 
 ## Contacto
 
