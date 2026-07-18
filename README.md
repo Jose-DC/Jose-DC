@@ -20,7 +20,7 @@ Este perfil reúne proyectos y laboratorios con evidencia reproducible sobre inf
   
 ## Mi objetivo profesional
 
-Seguir creciendo desde soporte avanzado e infraestructura hacia Soporte Cloud, Cloud Operations Junior y, gradualmente, SRE Junior. Quiero fortalecer confiabilidad, gestión de incidentes, observabilidad, automatización y operación de plataformas; DevOps Junior se mantiene como una ruta complementaria en CI/CD e infraestructura como código.
+Seguir desarrollándome en soporte cloud e infraestructura TI, avanzando hacia roles de Cloud Operations Junior. A mediano plazo, quiero orientar ese camino hacia SRE Junior, fortaleciendo el monitoreo, la gestión de incidentes, la confiabilidad y la automatización de plataformas.
 
 ## Portafolio
 
