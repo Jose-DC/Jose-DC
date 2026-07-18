@@ -12,6 +12,7 @@ Este perfil reúne proyectos y laboratorios con evidencia reproducible sobre inf
 - Soporte Cloud e Infraestructura TI.
 - Microsoft Azure y AKS/Kubernetes.
 - Diagnóstico mediante logs, métricas y monitoreo.
+- Fundamentos de confiabilidad, gestión de incidentes y continuidad operativa.
 - Implementaciones, integraciones y documentación técnica.
 - Docker, Helm y Linux como experiencia y aprendizaje aplicado según el contexto.
 - Automatización con Python, Bash y PowerShell.
@@ -19,7 +20,7 @@ Este perfil reúne proyectos y laboratorios con evidencia reproducible sobre inf
   
 ## Mi objetivo profesional
 
-Seguir creciendo desde soporte avanzado e infraestructura hacia Soporte Cloud, Cloud Operations Junior y DevOps Junior, fortaleciendo automatización, observabilidad y operación de plataformas de forma gradual.
+Seguir creciendo desde soporte avanzado e infraestructura hacia Soporte Cloud, Cloud Operations Junior y, gradualmente, SRE Junior. Quiero fortalecer confiabilidad, gestión de incidentes, observabilidad, automatización y operación de plataformas; DevOps Junior se mantiene como una ruta complementaria en CI/CD e infraestructura como código.
 
 ## Portafolio
 
