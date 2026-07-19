@@ -25,7 +25,6 @@ Seguir desarrollándome en soporte cloud e infraestructura TI, avanzando hacia r
 ## Portafolio
 
 - Sitio: https://jose-dc.github.io/
-- Proyecto documentado: [Plataforma Docker Lab](https://github.com/Jose-DC/plataforma-docker-lab)
 
 ## Contacto
 
