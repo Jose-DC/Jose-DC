@@ -1,22 +1,22 @@
 # Hola, soy José Díaz
 
-Soy Ingeniero Civil Telemático y actualmente trabajo como Ingeniero de Soporte e Infraestructura Cloud, participando en soporte avanzado y operación de entornos en Microsoft Azure y AKS/Kubernetes.
+Soy Ingeniero Civil Telemático y actualmente trabajo como Ingeniero de Soporte, combinando soporte funcional y técnico con infraestructura TI, operación cloud y documentación técnica.
 
-Mi experiencia incluye diagnóstico mediante logs y métricas, monitoreo con Prometheus y Grafana, gestión de incidentes, despliegues, integraciones, documentación técnica y continuidad operativa. También cuento con experiencia en Docker, Helm y Linux, además de una base en redes y automatización con Python.
+Mi experiencia incluye diagnóstico mediante logs y métricas, apoyo en monitoreo, gestión de incidentes, despliegues, integraciones, documentación técnica y continuidad operativa. También cuento con experiencia en Docker, Helm y Linux, además de una base en redes y automatización con Python.
 
 ## Foco profesional
 
-Mi foco actual está en Cloud Operations y soporte cloud avanzado. Busco seguir profundizando en observabilidad y prácticas SRE, con una proyección gradual hacia DevOps y Platform Engineering.
+Mi foco actual está en seguir creciendo desde soporte avanzado e infraestructura hacia roles relacionados con soporte cloud, operaciones cloud, infraestructura, automatización, DevOps, Platform Engineering o confiabilidad operativa, según la experiencia laboral y las oportunidades que vaya desarrollando.
 
-SysAdmin Cloud/Linux y automatización cloud son rutas complementarias. Cloud Security/SecOps es una especialización futura. No estoy orientando mi carrera hacia desarrollo full stack o backend puro.
+Me interesa mantener un perfil flexible dentro de operación de plataformas: soporte cloud, SysAdmin Cloud/Linux, automatización, continuidad, monitoreo, CI/CD e infraestructura como código. No estoy orientando mi carrera hacia desarrollo full stack o backend puro.
 
 ## Tecnologías y práctica
 
-- Uso laboral: Azure, AKS/Kubernetes, Docker, Helm, Linux, Prometheus, Grafana, logs, métricas, monitoreo y documentación técnica.
+- Uso laboral o aplicado: Azure, AKS/Kubernetes, Docker, Helm, Linux, logs, métricas, monitoreo y documentación técnica.
 - Experiencia previa y base aplicada: Python, Bash, redes, VPN, Git/GitHub y SQL/PostgreSQL.
-- En fortalecimiento: Azure Monitor, fundamentos SRE, SLI/SLO, CI/CD, Terraform y seguridad de secretos.
+- En fortalecimiento: Azure Monitor, Prometheus, Grafana, monitoreo, CI/CD, Terraform y seguridad de secretos.
 
-Prometheus y Grafana han sido utilizados tanto durante mi práctica profesional como en mi trabajo actual, principalmente para monitoreo, revisión de métricas y apoyo al diagnóstico operativo.
+Prometheus y Grafana forman parte de mi experiencia y aprendizaje aplicado en monitoreo, revisión de métricas y apoyo al diagnóstico operativo.
 
 Este perfil separa experiencia laboral, laboratorios y aprendizaje. Cada proyecto debe incluir problema, arquitectura, ejecución, evidencia, troubleshooting, seguridad, limitaciones y aprendizajes.
 
