@@ -4,7 +4,7 @@ Soy Ingeniero Civil Telemático y actualmente trabajo como Ingeniero de Soporte,
 
 Mi experiencia viene desde soporte, diagnóstico de incidentes, revisión de logs y métricas, monitoreo, implementaciones, integraciones y coordinación con equipos técnicos. También cuento con experiencia aplicada en Docker, Helm, Linux, redes y automatización con Python.
 
-Este perfil reúne proyectos y laboratorios orientados a infraestructura, operación, automatización y documentación técnica. La idea es mostrar aprendizaje aplicable y evidencia práctica, separando claramente experiencia laboral, práctica profesional y proyectos personales.
+En este GitHub comparto proyectos técnicos, laboratorios y documentación enfocados en resolver problemas reales de operación, infraestructura y automatización.
 
 ## Foco actual
 
