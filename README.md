@@ -2,27 +2,31 @@
 
 Soy Ingeniero Civil Telemático y actualmente trabajo como Ingeniero de Soporte, combinando soporte funcional y técnico con infraestructura TI, operación cloud y documentación técnica.
 
-Mi experiencia incluye diagnóstico mediante logs y métricas, apoyo en monitoreo, gestión de incidentes, despliegues, integraciones, documentación técnica y continuidad operativa. También cuento con experiencia en Docker, Helm y Linux, además de una base en redes y automatización con Python.
+Mi experiencia viene desde soporte, diagnóstico de incidentes, revisión de logs y métricas, monitoreo, implementaciones, integraciones y coordinación con equipos técnicos. También cuento con experiencia aplicada en Docker, Helm, Linux, redes y automatización con Python.
 
-## Foco profesional
+Este perfil reúne proyectos y laboratorios orientados a infraestructura, operación, automatización y documentación técnica. La idea es mostrar aprendizaje aplicable y evidencia práctica, separando claramente experiencia laboral, práctica profesional y proyectos personales.
 
-Mi foco actual está en seguir creciendo desde soporte avanzado e infraestructura hacia roles relacionados con soporte cloud, operaciones cloud, infraestructura, automatización, DevOps, Platform Engineering o confiabilidad operativa, según la experiencia laboral y las oportunidades que vaya desarrollando.
+## Foco actual
 
-Me interesa mantener un perfil flexible dentro de operación de plataformas: soporte cloud, SysAdmin Cloud/Linux, automatización, continuidad, monitoreo, CI/CD e infraestructura como código. No estoy orientando mi carrera hacia desarrollo full stack o backend puro.
+- Soporte funcional y técnico de primer y segundo nivel.
+- Soporte cloud e infraestructura TI.
+- Microsoft Azure y AKS/Kubernetes.
+- Docker, Helm, Linux y fundamentos de redes.
+- Diagnóstico mediante logs, métricas y monitoreo.
+- Implementaciones, integraciones y documentación técnica.
+- Automatización con Python, Bash y PowerShell.
+- Git, GitHub, CI/CD y buenas prácticas de operación.
 
-## Tecnologías y práctica
+## Mi objetivo profesional
 
-- Uso laboral o aplicado: Azure, AKS/Kubernetes, Docker, Helm, Linux, logs, métricas, monitoreo y documentación técnica.
-- Experiencia previa y base aplicada: Python, Bash, redes, VPN, Git/GitHub y SQL/PostgreSQL.
-- En fortalecimiento: Azure Monitor, Prometheus, Grafana, monitoreo, CI/CD, Terraform y seguridad de secretos.
+Seguir creciendo desde soporte avanzado e infraestructura hacia roles relacionados con soporte cloud, operaciones cloud, infraestructura, automatización, DevOps o Platform Engineering, manteniendo un perfil flexible según la experiencia laboral y las oportunidades que vaya desarrollando.
 
-Prometheus y Grafana forman parte de mi experiencia y aprendizaje aplicado en monitoreo, revisión de métricas y apoyo al diagnóstico operativo.
-
-Este perfil separa experiencia laboral, laboratorios y aprendizaje. Cada proyecto debe incluir problema, arquitectura, ejecución, evidencia, troubleshooting, seguridad, limitaciones y aprendizajes.
+No estoy cerrando mi camino a una sola especialidad. Me interesa fortalecer operación de plataformas, continuidad, automatización, documentación, monitoreo e infraestructura como código, sin presentar aprendizaje o laboratorios como dominio avanzado.
 
 ## Portafolio
 
 - Sitio: https://jose-dc.github.io/
+- Proyecto documentado: [Plataforma Docker Lab](https://github.com/Jose-DC/plataforma-docker-lab)
 
 ## Contacto
 
