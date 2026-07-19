@@ -26,7 +26,6 @@ No estoy cerrando mi camino a una sola especialidad. Me interesa fortalecer oper
 ## Portafolio
 
 - Sitio: https://jose-dc.github.io/
-- Proyecto documentado: [Plataforma Docker Lab](https://github.com/Jose-DC/plataforma-docker-lab)
 
 ## Contacto
 
